@@ -2200,7 +2200,7 @@ input, select, textarea {
 
 		.image.main {
 			display: block;
-			height: 20em;
+			height: 30em;
 			border-radius: 0;
 		}
 
@@ -2237,7 +2237,7 @@ input, select, textarea {
 
 			ul.alt li {
 				border-top: solid 2px #f4f4f4;
-				padding: 0.5em 0;
+				padding: 1em 0 3em 0;
 			}
 
 				ul.alt li:first-child {
@@ -2452,6 +2452,7 @@ input, select, textarea {
 			border: solid 2px #f4f4f4;
 			border-left: 0;
 			border-right: 0;
+      text-align: center;
 		}
 
 			table tbody tr:nth-child(2n + 1) {
@@ -2961,7 +2962,7 @@ input, select, textarea {
 				}
 
 			.image.main {
-				height: 20em;
+				height: 30em; 
 			}
 
 		/* Header */
